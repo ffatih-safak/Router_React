@@ -1,0 +1,11 @@
+.mainNav{ 
+  background-color: burlywood;
+}
+
+.mainNav a {  
+  margin: 20px;
+}
+
+.mainNav a.active{  
+  font-weight: bold;
+}
